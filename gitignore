@@ -1,0 +1,45 @@
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated files
+*.swp
+*.swo
+
+# Composer vendor dir (if used)
+vendor/
+
+# Node modules (if npm used)
+node_modules/
+
+# Cache
+cache/
+tmp/
+*.cache
+
+# XAMPP specific
+htdocs/tmp/
+htdocs/logs/
+
+# Backup files
+*.bak
+*.old
+*.orig
+
+# Uploaded files (optional)
+uploads/
+
+# Session and config
+session/
+config.php
