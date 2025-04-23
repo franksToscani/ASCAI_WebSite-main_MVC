@@ -24,14 +24,18 @@ main {
 
 /* ========== Header e Navbar ========== */
 header {
-    background-color: #0073e6;
-    color: #fff;
+    background-color: #efecec;
+    color: #333;
     padding: 1rem 0;
     text-align: center;
 }
 
 header h1 {
     margin: 0;
+}
+nav {
+    background-color: #efecec;
+    padding: 10px;
 }
 
 nav ul {
@@ -45,7 +49,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #333;
     text-decoration: none;
     font-weight: bold;
 }
@@ -172,8 +176,8 @@ h3 {
 
 /* ========== Bottoni ========== */
 button {
-    background-color: #0073e6;
-    color: white;
+    background-color: #efecec;
+    color: #333;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
@@ -181,7 +185,7 @@ button {
 }
 
 button:hover {
-    background-color: #005bb5;
+    background-color: #efecec;
 }
 
 /* ========== Alert & Messaggi ========== */
@@ -233,8 +237,8 @@ button:hover {
 footer {
     text-align: center;
     padding: 1rem 0;
-    background-color: #a8bbb3;
-    color: #fff;
+    background-color: #efecec;
+    color: #333;
 }
 
 /* ========== Responsive ========== */
