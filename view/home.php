@@ -30,6 +30,8 @@ if (session_status() === PHP_SESSION_NONE) {
             <li><a href="index.php?page=notizie">Notizie</a></li>
             <li><a href="index.php?page=eventi">Eventi</a></li>
             <li><a href="index.php?page=iscrizioni">Iscrizioni</a></li>
+            <li><a href="index.php?page=contatti">Contatti</a></li>
+            <li><a href="index.php?page=privacy">Privacy</a></li>
         </ul>
     </nav>
 </header>
